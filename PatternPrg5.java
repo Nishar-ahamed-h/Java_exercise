@@ -11,8 +11,5 @@ public class PatternPrg5 {
 			  }  
 			 System.out.println();
 		     }
-	}  }// TODO Auto-generated method stub
-
-	}
-
+	} 
 }
